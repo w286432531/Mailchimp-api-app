@@ -1,3 +1,3 @@
 # Mailchimp-api-app
 This is an app made with mailchimp api
-https://glacial-eyrie-73324.herokuapp.com/
+https://mailchimp-email-jay-huang.herokuapp.com/
